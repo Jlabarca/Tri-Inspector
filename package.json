@@ -5,5 +5,8 @@
   "version": "1.15.1",
   "unity": "2020.3",
   "author": "CodeWriter (https://github.com/orgs/codewriter-packages)",
-  "homepage": "https://github.com/codewriter-packages/Tri-Inspector#readme"
+  "homepage": "https://github.com/codewriter-packages/Tri-Inspector#readme",
+  "dependencies": {
+      "com.unity.localization": "1.0.0"
+  }
 }
